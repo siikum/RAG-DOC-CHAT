@@ -1,5 +1,6 @@
 # RAG-DocsChatBot
-A chatbot built using **LangChain** and **Gemini** that answers user queries from PDFs. This implementation focuses on document-based question answering and can respond to queries about text and tables in a PDF.
+A chatbot built using **LangChain** and **Gemini** that answers user queries from PDFs. This implementation focuses on document-based question answering and can respond to queries about text and tables in a PDF. You can find the documentation [here](docs/RAG-DOC-CHAT-Documentation-SikumHangmaMadi.pdf).
+
 
 ## Functionalities
 
